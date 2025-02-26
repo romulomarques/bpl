@@ -1,0 +1,95 @@
+INFO: COLUMN RESSEQ ATOM  INDEX    X        Y         Z
+DATA: ANCHOR     44   CA      2 34.89700 38.97400 18.13300
+DATA: ANCHOR     45   CA      5 37.39800 36.19500 18.83600
+DATA: ANCHOR     46   CA     10 35.60600 33.26200 20.46000
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: INTERV    47    46      H    HA    17    13      3.27710452      3.77710452
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: RIGID0    44    44     CA     C     2     3      1.50760844      1.50760844
+DATA: RIGID0    44    45     CA     N     2     4      2.45812001      2.45812001
+DATA: RIGID0    44    45     CA    CA     2     5      3.80421491      3.80421491
+DATA: RIGID0    44    45      C     N     3     4      1.32775632      1.32775632
+DATA: RIGID0    44    45      C    CA     3     5      2.40467038      2.40467038
+DATA: RIGID0    45    45      N    CA     4     5      1.46302599      1.46302599
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: HYDRORIG0    44    45     CA     H     2     7      2.64819671      2.64819671
+DATA: HYDRORIG0    44    45      C     H     3     7      2.04388371      2.04388371
+DATA: HYDRORIG0    45    45      N     H     4     7      1.00751782      1.00751782
+DATA: HYDRORIG0    45    45     CA     H     5     7      2.14683776      2.14683776
+DATA: HYDRORIG0    45    45      H    HA     7     8      2.73156693      3.23156693
+DATA: HYDRORIG0    45    45      N    HA     4     8      2.09659122      2.09659122
+DATA: HYDRORIG0    45    45     CA    HA     5     8      1.09537133      1.09537133
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: RIGID1    45    45     CA     C     5     6      1.52741973      1.52741973
+DATA: RIGID1    45    46     CA     N     5     9      2.43953674      2.43953674
+DATA: RIGID1    45    46     CA    CA     5    10      3.80146414      3.80146414
+DATA: RIGID1    45    46      C     N     6     9      1.32930965      1.32930965
+DATA: RIGID1    45    46      C    CA     6    10      2.41534392      2.41534392
+DATA: RIGID1    46    46      N    CA     9    10      1.45411485      1.45411485
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: HYDRORIG1    45    45      C    HA     6     8      2.14515957      2.14515957
+DATA: HYDRORIG1    45    46     HA     H     8    12      1.77039157      2.27039157
+DATA: HYDRORIG1    45    46     HA    HA     8    13      3.93839108      4.43839108
+DATA: HYDRORIG1    45    46     CA     H     5    12      2.59486161      2.59486161
+DATA: HYDRORIG1    45    46      C     H     6    12      2.05033144      2.05033144
+DATA: HYDRORIG1    46    46      N     H     9    12      1.02190090      1.02190090
+DATA: HYDRORIG1    46    46     CA     H    10    12      2.14289459      2.14289459
+DATA: HYDRORIG1    46    46      H    HA    12    13      2.55706726      3.05706726
+DATA: HYDRORIG1    46    46      N    HA     9    13      2.07167219      2.07167219
+DATA: HYDRORIG1    46    46     CA    HA    10    13      1.09363386      1.09363386
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: RIGID2    46    46     CA     C    10    11      1.52137247      1.52137247
+DATA: RIGID2    46    47     CA     N    10    14      2.41268609      2.41268609
+DATA: RIGID2    46    47     CA    CA    10    15      3.80079706      3.80079706
+DATA: RIGID2    46    47     CA     C    10    16      4.72974992      4.72974992
+DATA: RIGID2    46    44     CA     N    10     1      7.21663313      7.21663313
+DATA: RIGID2    46    44     CA    CA    10     2      6.20842595      6.20842595
+DATA: RIGID2    46    47      C     N    11    14      1.33092664      1.33092664
+DATA: RIGID2    46    47      C    CA    11    15      2.44955009      2.44955009
+DATA: RIGID2    46    47      C     C    11    16      3.62868034      3.62868034
+DATA: RIGID2    46    44      C     N    11     1      8.23692308      8.23692308
+DATA: RIGID2    46    44      C    CA    11     2      7.39043045      7.39043045
+DATA: RIGID2    47    47      N    CA    14    15      1.45782098      1.45782098
+DATA: RIGID2    47    47      N     C    14    16      2.38051831      2.38051831
+DATA: RIGID2    47    44      N     N    14     1      8.47917721      8.47917721
+DATA: RIGID2    47    44      N    CA    14     2      7.75296014      7.75296014
+DATA: RIGID2    47    47     CA     C    15    16      1.53235924      1.53235924
+DATA: RIGID2    47    44     CA     N    15     1      9.64686247      9.64686247
+DATA: RIGID2    47    44     CA    CA    15     2      9.03635990      9.03635990
+DATA: RIGID2    47    44      C     N    16     1      9.56869813      9.56869813
+DATA: RIGID2    47    44      C    CA    16     2      9.12903218      9.12903218
+DATA: RIGID2    44    44      N    CA     1     2      1.45626307      1.45626307
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: HYDRORIG2    46    46      C    HA    11    13      2.11871780      2.11871780
+DATA: HYDRORIG2    46    47     HA    HA    13    18      4.17200545      4.67200545
+DATA: HYDRORIG2    46    47     CA     H    10    17      2.53284470      2.53284470
+DATA: HYDRORIG2    46    47      C     H    11    17      2.03456923      2.03456923
+DATA: HYDRORIG2    47    47      N     H    14    17      1.01617468      1.01617468
+DATA: HYDRORIG2    47    47     CA     H    15    17      2.12834880      2.12834880
+DATA: HYDRORIG2    47    47      H    HA    17    18      2.78506844      3.28506844
+DATA: HYDRORIG2    47    47      N    HA    14    18      2.12276381      2.12276381
+DATA: HYDRORIG2    47    47     CA    HA    15    18      1.09573465      1.09573465
+DATA: HYDRORIG2    47    47      C    HA    16    18      2.18521500      2.18521500
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: CROSSHYDRORIG_0_1    45    46      H     H     7    12      4.21628224      4.71628224
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: CROSSHYDRORIG_1_2    45    47     HA     H     8    17      3.62953128      4.12953128
+DATA: CROSSHYDRORIG_1_2    46    47      H     H    12    17      2.22891430      2.72891430
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J         LIJ             UIJ
+DATA: CROSSHYDRORIG_0_2    45    46     HA    HA     8    13      3.90259354      4.40259354
+DATA: CROSSHYDRORIG_0_2    45    47     HA     H     8    17      3.74975170      4.24975170
+
+INFO: COLUMN RES_I RES_J  ATM_I ATM_J IDX_I IDX_J   LIJ     UIJ
+DATA: LINKS     44    44      N     C     1     3 2.54678 2.54678
+DATA: LINKS     45    45      N     C     4     6 2.45335 2.45335
+DATA: LINKS     46    46      N     C     9    11 2.47871 2.47871

@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1qopA_44 (45,46)",18,66,100,"[3.39, 3.59]",48,32,0.662233,3.8e-06,0.0033619043749999996,0.009643,0.005984,0.27630025,0.4849

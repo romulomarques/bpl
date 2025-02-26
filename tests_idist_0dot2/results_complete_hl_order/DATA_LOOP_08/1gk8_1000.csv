@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1gk8A_122 (124,126)",37,200,1000,"[2.75, 2.95]",432,54,13.982949,5.952e-05,0.004966204444444445,0.009813,0.0003098,0.026831325925925922,0.05441

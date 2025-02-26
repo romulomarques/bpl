@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1thfD_121 (122,123)",14,43,1000,"[3.41, 3.61]",1722,1722,11.278781,4.335e-07,0.0015125257385598142,0.009985,0.0002415,0.4711842886178862,2.226

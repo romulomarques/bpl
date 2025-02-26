@@ -1,0 +1,12 @@
+order:    [ 1 10 11 0 16 15 14 18 17 13 9 5 6 12 4 8 2 3 7 ]
+atoms:    [ CA CA C N C CA N HA H HA N CA C H N HA C HA H ]
+residues: [ 0 2 2 0 3 3 3 3 3 2 2 1 1 2 1 1 0 0 1 ]
+
+d_17_13=3.072882336768 eijMax=3.138E-03 rmsd=3.720E-02 s=[ 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 ]
+d_17_13=3.072882336768 eijMax=3.138E-03 rmsd=3.720E-02 s=[ 0 0 0 1 0 1 1 0 1 1 0 1 1 1 0 1 1 0 1 ]
+num ..... 100
+nnodes .. 19
+nedges .. 71
+nsols ... 4
+nnonhsols 2
+tsecs ... 0.980643

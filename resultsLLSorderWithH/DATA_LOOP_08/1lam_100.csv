@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1lamA_420 (422,424)",38,198,100,"[6.51, 7.10]",512,4,7.130073,0.003267,0.0047275,0.006188,0.02192,0.031955,0.04199

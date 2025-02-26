@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1dysA_47 (48,49)",14,43,10,"[2.28, 2.48]",100,100,0.375257,0.0004656,0.002905962,0.009497,0.09532,1.4679235999999998,2.671

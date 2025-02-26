@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1id0A_405 (406,407)",14,43,1000,"[3.10, 3.60]",2256,2255,8.796666,1.135e-06,0.0031773785827050997,0.009997,0.0002448,1.4556991827937915,2.544

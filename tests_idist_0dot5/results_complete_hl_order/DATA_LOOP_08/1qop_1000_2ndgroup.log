@@ -1,0 +1,24 @@
+order:    [ 1 19 20 0 34 33 32 36 29 28 35 27 31 24 23 30 22 26 25 21 18 9 10 15 14 13 17 16 8 12 2 5 4 11 3 7 6 ]
+atoms:    [ CA CA C N C CA N HA C CA H N HA C CA H N HA H HA N CA C C CA N HA H N HA C C CA H N HA H ]
+residues: [ 0 4 4 0 7 7 7 7 6 6 7 6 6 5 5 6 5 5 5 4 4 2 2 3 3 3 3 3 2 2 0 1 1 2 1 1 1 ]
+
+We use a different pair of symbles to represent the bits values which are associated with the HA and H of the discretized distance, and another one to represent the bits of other hydrogens.
+For the HA and H from the discretized distance:
+	"+" means 0
+	"-" means 1
+For any other hydrogens:
+	">" means 0
+	"<" means 1
+
+d_25_21=2.153666392693 s=[ 0 0 0 0 1 0 1 < 1 1 < 1 < 1 1 < 1 < + - 1 1 1 1 1 0 < > 0 > 0 0 0 < 0 < > ] xyz18=( 54.407142, 15.213474, 15.002654 )
+
+d_25_21=2.152164891191 s=[ 0 0 0 0 1 0 1 < 1 1 < 1 < 1 1 < 1 < - - 1 0 0 0 0 1 > > 1 < 1 1 1 > 1 > > ] xyz18=( 54.408106, 15.213913, 15.003983 )
+
+d_25_21=2.152665391692 s=[ 0 0 0 0 1 0 1 < 1 1 < 1 < 1 1 < 1 < - - 1 1 1 1 1 0 < > 0 > 0 0 0 < 0 < > ] xyz18=( 54.407104, 15.213456, 15.002602 )
+
+d_25_21=2.152164891191 s=[ 0 0 0 1 0 1 0 > 0 0 > 0 > 0 0 > 0 > + + 0 1 1 1 1 0 < > 0 > 0 0 0 < 0 < > ] xyz18=( 54.924234, 16.325534, 15.866731 )
+
+d_25_21=2.152665391692 s=[ 0 0 0 1 0 1 0 > 0 0 > 0 > 0 0 > 0 > + + 0 0 0 0 0 1 > > 1 < 1 1 1 > 1 > > ] xyz18=( 54.924251, 16.327271, 15.867051 )
+
+d_25_21=2.153666392693 s=[ 0 0 0 1 0 1 0 > 0 0 > 0 > 0 0 > 0 > - + 0 0 0 0 0 1 > > 1 < 1 1 1 > 1 > > ] xyz18=( 54.924250, 16.327205, 15.867039 )
+

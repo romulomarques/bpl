@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1d8wA_46 (49,52)",38,271,1000,"[2.65, 2.85]",360,360,40.810155,3.519e-05,0.004985123222222222,0.009911,8.658e-05,8.327021203222223,12.76

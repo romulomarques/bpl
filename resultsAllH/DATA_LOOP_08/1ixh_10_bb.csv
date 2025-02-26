@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1ixhA_106 (108,110)",26,130,10,"[2.27, 2.47]",12,12,0.620881,0.001005,0.0027726666666666663,0.006053,1.47,6.762166666666668,9.774

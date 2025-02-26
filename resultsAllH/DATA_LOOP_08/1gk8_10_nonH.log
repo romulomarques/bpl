@@ -1,0 +1,10 @@
+order:    [ 1 9 8 2 3 4 6 5 7 11 12 10 19 18 13 14 16 15 17 21 0 20 22 23 25 24 26 27 28 30 29 31 32 33 35 34 36 ]
+atoms:    [ CA CA N C N CA H C HA H HA C CA N N CA H C HA H N C N CA H C HA N CA H C HA N CA H C HA ]
+residues: [ 0 2 2 0 1 1 1 1 1 2 2 2 4 4 3 3 3 3 3 4 0 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 ]
+
+num ..... 10
+nnodes .. 37
+nedges .. 200
+nsols ... 0
+nnonhsols 0
+tsecs ... 0.103721

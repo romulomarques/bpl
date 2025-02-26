@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1cruA_85 (87,89)",37,203,10,"[4.91, 6.64]",0,0,0.488801,-,-,-,-,-,-

@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1qnrA_195 (196,197)",19,76,1000,"[4.65, 5.27]",52,24,2.860965,0.0002321,0.0028960166666666663,0.007983,0.01488,0.1024175,0.1697

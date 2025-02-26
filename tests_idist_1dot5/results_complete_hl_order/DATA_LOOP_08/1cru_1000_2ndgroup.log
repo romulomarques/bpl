@@ -1,0 +1,16 @@
+order:    [ 1 19 20 0 35 34 33 36 30 29 28 32 25 24 31 23 27 26 22 18 9 10 15 14 21 13 17 16 8 12 2 3 6 5 11 4 7 ]
+atoms:    [ CA CA C N C CA N HA C CA N HA C CA H N HA H HA N CA C C CA H N HA H N HA C HA C CA H N HA ]
+residues: [ 0 4 4 0 7 7 7 7 6 6 6 6 5 5 6 5 5 5 4 4 2 2 3 3 4 3 3 3 2 2 0 0 1 1 2 1 1 ]
+
+We use a different pair of symbles to represent the bits values which are associated with the HA and H of the discretized distance, and another one to represent the bits of other hydrogens.
+For the HA and H from the discretized distance:
+	"+" means 0
+	"-" means 1
+For any other hydrogens:
+	">" means 0
+	"<" means 1
+
+d_26_22=3.553182115075 s=[ 0 0 0 0 1 0 1 > 0 0 1 > 0 0 > 0 > - - 0 1 0 0 0 > 1 > > 1 < 0 > 0 0 < 1 > ] xyz18=( 25.801159, 18.578081, 60.406781 )
+
+d_26_22=3.553182115075 s=[ 0 0 0 1 0 1 0 < 1 1 0 < 1 1 < 1 < + + 1 0 1 1 1 < 0 < < 0 > 1 < 1 1 > 0 < ] xyz18=( 25.671105, 18.774443, 59.954306 )
+

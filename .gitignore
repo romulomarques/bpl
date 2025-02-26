@@ -1,0 +1,11 @@
+# ignore all the files in DATA_LOOP_04_old
+DATA_LOOP_04_old/*
+DATA_LOOP_08_old/*
+DATA_LOOP_12_old/*
+DATA_LOOP_04/*
+DATA_LOOP_08/*
+DATA_LOOP_12/*
+runDataLoop04.sh
+runDataLoop04.bat
+runDataLoop08.bat
+runDataLoop12.bat

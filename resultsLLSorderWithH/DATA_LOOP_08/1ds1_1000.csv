@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1ds1A_20 (22,24)",37,195,1000,"[6.90, 7.62]",80,28,57.385850,0.0003038,0.0035899357142857137,0.007644,0.008436,0.09955614285714287,0.2091

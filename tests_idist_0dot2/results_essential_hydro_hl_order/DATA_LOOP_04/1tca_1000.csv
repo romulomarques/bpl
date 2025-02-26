@@ -1,0 +1,2 @@
+pdb,nnodes,nedges,num,idist,nsols,nbbsols,tsecs,min_eij,avg_eij,max_eij,min_rmsd,avg_rmsd,max_rmsd
+"1tcaA_95 (96,97)",14,43,1000,"[2.19, 2.39]",1072,1072,13.166208,6.201e-08,0.0020300195927425374,0.009926,0.0002234,0.2416764690298507,0.6249
